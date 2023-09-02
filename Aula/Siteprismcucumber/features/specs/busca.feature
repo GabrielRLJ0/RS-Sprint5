@@ -12,7 +12,7 @@ Funcionalidade: Busca
 
     @search_for_product
     Cenário: Buscar por um produto existente
-        Quando realizar uma buscar por um produto existente
+        Quando realizar uma busca por um produto existente
         Então deverão ser retornados resultados na busca
 
     @search_for_different_product
