@@ -4,11 +4,10 @@ require_relative '../sections/products'
 module Pages
     class SearchResults < SitePrism::Page
         set_url '/#/search'
-
-        section  :header, Sections::Header, 'header'
+        section :header, Sections::Header, 'header'
         sections :products, Sections::Products, 'div.categoryRight li.ng-scope'
 
-        def acess_product_page(index)
+        def access_product_page(index)
             products[index].name.click
         end
     end

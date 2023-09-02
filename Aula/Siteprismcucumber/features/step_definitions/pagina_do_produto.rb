@@ -1,5 +1,5 @@
 Quando('acessar a página do produto') do
-    @search_results_page.acess_product_page(1)
+    @search_results_page.access_product_page(1)
     @product_page = Pages::ProductPage.new
   end
   
