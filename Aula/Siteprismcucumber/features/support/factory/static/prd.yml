@@ -1,4 +1,4 @@
-valid_product: 'SPEAKERS'
+valid_product: 'LAPTOPS'
 user_for_login:
   email: 'teste@compass.com.br'
   password: '123456&'
