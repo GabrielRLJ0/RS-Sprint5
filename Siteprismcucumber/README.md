@@ -7,6 +7,7 @@
 Automação de testes utilizando Capybara, Cucumber e SitePrism em Ruby 3.2.2. Os testes foram efetuados no site [Advantage Online Shopping](http://www.advantageonlineshopping.com/#/).
 
 ## Mapa Mental
+![AdvantageOnlineShopping](https://github.com/GabrielRLJ0/RS-Sprint5/assets/124266560/c17f21a1-e291-4462-9c3a-0d30fc06f3e0)
 
 Mapa mental para os fluxos prioritários de testes.
 
