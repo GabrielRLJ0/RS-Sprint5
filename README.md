@@ -21,7 +21,4 @@ O projeto é um protótipo de automação de testes usando Cucumber e Capybara p
 - Instalar dependências: `bundle install`
 - Configurar o ambiente e variáveis necessárias.
 
-## Licença 
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE.md para obter detalhes.
-
 [Outros Projetos](https://github.com/GabrielRLJ0?tab=repositories)
