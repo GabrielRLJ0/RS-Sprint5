@@ -8,7 +8,6 @@ Automação de testes utilizando Capybara, Cucumber e SitePrism em Ruby 3.2.2. O
 
 ## Mapa Mental
 
-![AdvantageOnlineShopping](https://github.com/pedroomartinelli/PB_Sprint5/assets/141445664/5e707507-206e-4c40-aba7-faa5824f1934)
 Mapa mental para os fluxos prioritários de testes.
 
 ## Instalação
